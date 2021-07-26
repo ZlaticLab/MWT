@@ -1,0 +1,16 @@
+MWT.dll 
+Copyright (C) 2007 - 2010 Howard Hughes Medical Institute
+Copyright (C) 2007 - 2010 Rex A. Kerr, Nicholas A. Swierczek
+It is distributed under the terms of the GNU Lesser General Public Licence 
+version 2.1 (LGPL 2.1).
+
+
+imaqdirectshowdll.dll, imaqdirectshowexport.dll, and LabView are
+Copyright (C) 2009 National Instruments Corporation. All Rights Reserved.
+This file is available from National Instruments Corporation at 
+http://sine.ni.com/devzone/cda/epd/p/id/5030.  Please refer to the 
+National Instruments Corporation website for terms of use, including the 
+NI general license for software at  http://www.ni.com/legal/license/.
+
+ 
+
